@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
     <v-col>
-      <h1>Курс биткоина</h1>
+      <h1>Текущий курс биткоина</h1>
     </v-col>
     <section v-if="errored">
       <p>Упс.. Не удалось получить данные</p>
