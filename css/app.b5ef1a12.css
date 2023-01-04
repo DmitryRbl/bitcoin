@@ -1,0 +1,1 @@
+.outer:before{content:"";height:100%}.inner,.outer:before{display:inline-block;vertical-align:middle}.outer{display:flex;justify-content:center;align-items:center}
