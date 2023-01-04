@@ -40,6 +40,8 @@ export default {
 	links: [
       { icon: 'home', text: 'Home', route: '/'},
       { icon: 'contacts', text: 'About', route: '/about'},
+      { icon: 'contacts', text: 'graph', route: '/graph'},
+      { icon: 'contacts', text: 'trading', route: '/trading'},
     ]
   }),
 };
